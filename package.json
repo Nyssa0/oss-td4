@@ -1,0 +1,23 @@
+{
+  "name": "nyssa0-oss-td4",
+  "version": "1.0.1",
+  "description": "This is a description for a package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nyssa0/oss-td4.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nyssa0/oss-td4/issues"
+  },
+  "homepage": "https://github.com/Nyssa0/oss-td4#readme",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "jest": "^29.6.1"
+  }
+}
